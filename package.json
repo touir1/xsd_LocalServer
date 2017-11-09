@@ -1,0 +1,14 @@
+{
+  "name": "xsd_local_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "xsd_localServer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mohamed Ali Touir",
+  "license": "MIT",
+  "dependencies": {
+    "log4js": "^2.3.11"
+  }
+}
